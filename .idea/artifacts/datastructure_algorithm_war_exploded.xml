@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="datastructure-algorithm:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/datastructure_algorithm_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="datastructure-algorithm/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="datastructure-algorithm" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
